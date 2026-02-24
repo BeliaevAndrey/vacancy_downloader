@@ -3,3 +3,5 @@ results/
 .env
 .idea/
 .venv/
+__pycache__/
+.vscode/
